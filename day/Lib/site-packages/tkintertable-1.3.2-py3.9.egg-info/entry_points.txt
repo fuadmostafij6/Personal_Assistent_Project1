@@ -1,0 +1,3 @@
+[gui_scripts]
+tablesapp = tkintertable.App:main
+
